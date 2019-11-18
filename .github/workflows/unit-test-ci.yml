@@ -7,7 +7,7 @@
 #
 #   push:
 #     branches:
-#       - develop
+#       - GithubAutomation
 #
 # jobs:
 #   build:
